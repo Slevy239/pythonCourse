@@ -1,5 +1,5 @@
 print("My name is")
-for i in range(12, 16):
+for i in range(12, 16, 2):
     print("jimmy five times " + str(i))
 
 total = 0
